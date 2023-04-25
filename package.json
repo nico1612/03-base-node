@@ -8,6 +8,7 @@
   },
   "author": "nicolas gonzalez",
   "license": "MIT",
+  "type":"module",
   "dependencies": {
     "colors": "^1.4.0",
     "yargs": "^17.7.1"
